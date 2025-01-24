@@ -125,6 +125,12 @@
       "money": -20,
       "date": "2025-01-19T08:00:00.000Z",
       "useFor": "taxi"
+    },
+    {
+      "id": "2470",
+      "type": "income",
+      "money": 100,
+      "useFor": "salary"
     }
   ]
 }
